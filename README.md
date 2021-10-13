@@ -1,8 +1,5 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
 
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
+## ¡Hola!, I'm Harshit.
 (Use dark theme to find my socials ;)
 
 <a href="https://https://www.linkedin.com/in/harshit-kawatra-b0026218b/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
