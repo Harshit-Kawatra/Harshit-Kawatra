@@ -1,6 +1,5 @@
 
 ## ¡Hola!, I'm Harshit.
-<p align="left"> <a href="https://twitter.com/harshitkawatra" target="blank"><img src="https://img.shields.io/twitter/follow/harshitkawatra?logo=twitter&style=for-the-badge" alt="harshitkawatra" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-kawatra&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-kawatra" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +21,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-kawatra&layout=compact)](https://github.com/harshit-kawatra/github-readme-stats)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-kawatra&show_icons=true&locale=en" alt="harshit-kawatra" /></p>
 ---
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-kawatra&show_icons=true&locale=en" alt="harshit-kawatra" /></p>
+
