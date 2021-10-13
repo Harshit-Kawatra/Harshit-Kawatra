@@ -33,7 +33,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](open.spotify.com/user/harshitkawatra08?si=532689a3c2a34f59)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb?si=c14738faf6804410)
 <br/>
 ---
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
