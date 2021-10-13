@@ -23,5 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-kawatra&layout=compact)](https://github.com/harshit-kawatra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-kawatra&show_icons=true&locale=en" alt="harshit-kawatra" /></p>
 ---
+<br>
 [![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 
