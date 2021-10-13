@@ -1,14 +1,14 @@
 
 ## ¡Hola!, I'm Harshit.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-kawatra&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-kawatra" /> </p>
 <h2> About Me </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elegantthemes.com%2Fblog%2Fresources%2Fbest-code-editors&psig=AOvVaw1h6HRYqz_-Avg0cJyrKfch&ust=1634202916393000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDAgriGx_MCFQAAAAAdAAAAABAD" />
 
 - 🌱 I’m currently learning Machine Learning and Data Structures & Algorithms.
 
 - 🎓Currently pursuing B.Tech(CSE) at Jaypee Institute of Information Technology
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-kawatra&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-kawatra" /> </p>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/harshitkawatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitkawatra" height="30" width="40" /></a>
