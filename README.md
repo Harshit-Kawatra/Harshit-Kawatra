@@ -4,9 +4,9 @@
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png" />
 
-- 🌱 I’m currently learning Machine Learning and Data Structures & Algorithms.
-
-- 🎓Currently pursuing B.Tech(CSE) at Jaypee Institute of Information Technology
+- 🌱 I’m always learning Machine Learning and Data Structures & Algorithms.
+- 🎓Graduated Masters of Applied Computing  at Wilfrid Laurier University, ON, Canada.
+- 🎓Graduated B.Tech(CSE) at Jaypee Institute of Information Technology, Noida, India.
  
 
 <h2 align="left">Connect with me:</h2>
